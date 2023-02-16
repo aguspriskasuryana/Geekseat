@@ -1,4 +1,7 @@
 # Geekseat
+
+import db
+-dbtest_geekseat.sql
 //Test
 
 Login menggunakan 
